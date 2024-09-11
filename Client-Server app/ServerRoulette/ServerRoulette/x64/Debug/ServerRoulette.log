@@ -1,0 +1,18 @@
+﻿  ServerRoulette.cpp
+C:\WORK\ServerRoulette\ServerRoulette.cpp(25,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(49,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(53,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(89,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(90,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(97,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(98,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(103,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(104,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(110,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(111,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(152,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(157,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(158,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(163,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WORK\ServerRoulette\ServerRoulette.cpp(165,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ServerRoulette.vcxproj -> C:\WORK\ServerRoulette\x64\Debug\ServerRoulette.exe
